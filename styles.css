@@ -67,6 +67,10 @@ body {
         top: 7px;
         right: 0;
     }
+
+    #navigation-list {
+        display: none;
+    }
 }
 
 /* First Div */
